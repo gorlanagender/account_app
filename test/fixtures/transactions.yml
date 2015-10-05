@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ttype: MyString
+  description: MyString
+  merchant: MyString
+  amount: 1.5
+  account_id: 1
+
+two:
+  ttype: MyString
+  description: MyString
+  merchant: MyString
+  amount: 1.5
+  account_id: 1
